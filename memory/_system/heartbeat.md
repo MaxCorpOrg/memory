@@ -1,5 +1,5 @@
 # Memory Agent Heartbeat
-- last_sync: 2026-04-03T00:05:00.155Z
+- last_sync: 2026-04-04T00:05:00.220Z
 - repo: MaxCorpOrg/memory
 - branch: main
 - base_path: memory
@@ -8,4 +8,4 @@
 - max_repo_bytes: 5242880
 - oversized_files: 0
 - compacted_now: 0
-- stale_before_sync: true
+- stale_before_sync: false
